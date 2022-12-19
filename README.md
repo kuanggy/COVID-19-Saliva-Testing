@@ -3,6 +3,7 @@ This project is a part of Chula UTC: AI Academy Batch 3 Entry Exam
 
 # Model Result Summary
 <img src="model_result_summary.png" style="background-color: white;">
+![#000000](https://placehold.co/15x15/f03c15/f03c15.png) `#000000`
 
 <hr>
 
